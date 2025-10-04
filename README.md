@@ -18,10 +18,7 @@ git clone https://github.com/csirick2020/turtle-fireworks.git
 cd turtle-fireworks
 python fireworks_turtle.py
 ```
-<<<<<<< HEAD
-=======
 
 ---
 
 ![Turtle Fireworks Screenshot](./turtle_fireworks_program.PNG)
->>>>>>> a1a0c66e207df1cda131fdf9e2da3b586419977a
