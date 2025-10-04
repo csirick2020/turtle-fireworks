@@ -5,7 +5,7 @@ A fun Python project using the built-in `turtle` module to simulate a fireworks 
 - **Left Click:** Launch a random firework.
 - **Right Click:** Undo the last firework.
 - **Clear Button:** Erase all fireworks.
-- **Auto Button:** Run an automated show (20 fireworks, 1 per 1/4 second).
+- **Auto Button:** Run an automated show (20 fireworks, 1 every 1/4 second).
 - **Quit Button:** Exit the program.
 
 The buttons always stay on top so the UI remains usable during the show.
@@ -18,3 +18,10 @@ git clone https://github.com/csirick2020/turtle-fireworks.git
 cd turtle-fireworks
 python fireworks_turtle.py
 ```
+<<<<<<< HEAD
+=======
+
+---
+
+![Turtle Fireworks Screenshot](./turtle_fireworks_program.PNG)
+>>>>>>> a1a0c66e207df1cda131fdf9e2da3b586419977a
